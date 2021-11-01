@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"christian-kohler.path-intellisense",
+			"eamodio.gitlens"
+		]
+	}
+}
