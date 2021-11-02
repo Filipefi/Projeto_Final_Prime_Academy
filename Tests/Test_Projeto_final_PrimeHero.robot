@@ -24,11 +24,11 @@ Caso de teste 03: Adicionar Cliente
     Acessar a página home
     Clicar em "Sign in"
     
-    # Informar em e-mail válido
-    # Clicar em "Create an account"
-#     Preencher os dados obrigatórios
-#     Submeter cadastro
-#     Conferir se o cadastro foi efetuado com sucesso
+    Informar em e-mail válido
+    Clicar em "Create an account"
+    Preencher os dados obrigatórios
+    Submeter cadastro
+    Conferir se o cadastro foi efetuado com sucesso
 
 
 
